@@ -7,7 +7,6 @@ For this project, a vulnerable population was identified, a SARS-CoV-2 outbreak 
 
 1. Download or clone this entire repository into any local directory.
 2. Open the .ipynb file included; Jupyter Notebook is recommended.
-3. The figures in the **"Figures"** folder correspond to the figures in the Python code.  
-4. Follow the steps listed out and run each cell as instructed without making any changes to the code. Figures will be displayed directly in the Jupyter Notebook environment and will be saved into the same folder that the .ipynb file is located in. 
+3. Follow the steps listed out and run each cell as instructed without making any changes to the code. Figures will be displayed directly in the Jupyter Notebook environment and will be automatically saved into the same folder that the .ipynb file is located in. 
     
 All necessary packages and libraries are already included in the code. No additional raw data is necessary.
